@@ -9,7 +9,7 @@ I build systems with Python and data, study how AI and algorithms shape the expe
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111418?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0E3OEJGQSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D)](https://www.linkedin.com/in/vitor-ara%C3%BAjo-55a98942b)
-[![Portfolio](https://img.shields.io/badge/chaosdeva-111418?style=for-the-badge&logo=astro&logoColor=A78BFA)](https://jvitoraraujo.github.io/chaosdeva/#/chaos/projetos)
+[![Portfolio](https://img.shields.io/badge/chaosdeva-111418?style=for-the-badge&logo=astro&logoColor=A78BFA)](https://jvitoraraujo.github.io/chaosdeva/)
 [![Email](https://img.shields.io/badge/Email-111418?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vitoraraujo02@gmail.com)
 
 <br>
