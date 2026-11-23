@@ -55,9 +55,9 @@ Alongside that, I develop original projects that merge engineering and symbolism
     <td width="50%" valign="top">
 
 ### ATANOR
-Local-first EPUB reader and PDF-to-EPUB converter, evolved from **Deva-PDF2EPUB**. Features automated OCR correction and bibliographic metadata extraction.
+Local-first EPUB reader and PDF-to-EPUB converter, evolved from **Deva-PDF2EPUB**.
 
-`Python` · `EPUB` · `OCR` · `Local-first`
+`Python` · `EPUB` · `Local-first`
 
 [Repository](https://github.com/jvitoraraujo/atanor)
 
