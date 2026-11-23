@@ -9,7 +9,7 @@ I build systems with Python and data, study how AI and algorithms shape the expe
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111418?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/vitor-ara%C3%BAjo-55a98942b)
-[![Portfolio](https://img.shields.io/badge/chaosdeva-111418?style=for-the-badge&logo=astro&logoColor=A78BFA)](https://jvitoraraujo.github.io/chaosdeva/)
+[![Portfolio](https://img.shields.io/badge/chaosdeva-111418?style=for-the-badge&logo=astro&logoColor=A78BFA)](https://jvitoraraujo.github.io/chaosdeva/#/chaos/projetos)
 [![Email](https://img.shields.io/badge/Email-111418?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vitoraraujo02@gmail.com)
 
 <br>
@@ -45,7 +45,8 @@ Alongside that, I develop original projects that merge engineering and symbolism
 |---|---|
 | **Backend & Data** | ![Python](https://img.shields.io/badge/Python_3.12+-111418?style=flat-square&logo=python&logoColor=A78BFA) ![FastAPI](https://img.shields.io/badge/FastAPI-111418?style=flat-square&logo=fastapi&logoColor=A78BFA) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111418?style=flat-square&logo=sqlalchemy&logoColor=A78BFA) ![Alembic](https://img.shields.io/badge/Alembic-111418?style=flat-square&logoColor=A78BFA) ![Pydantic](https://img.shields.io/badge/Pydantic-111418?style=flat-square&logo=pydantic&logoColor=A78BFA) ![Pandas](https://img.shields.io/badge/Pandas-111418?style=flat-square&logo=pandas&logoColor=A78BFA) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111418?style=flat-square&logo=postgresql&logoColor=A78BFA) |
 | **Frontend & Mobile** | ![TypeScript](https://img.shields.io/badge/TypeScript-111418?style=flat-square&logo=typescript&logoColor=38A3D1) ![JavaScript](https://img.shields.io/badge/JavaScript-111418?style=flat-square&logo=javascript&logoColor=38A3D1) ![HTML5](https://img.shields.io/badge/HTML5-111418?style=flat-square&logo=html5&logoColor=38A3D1) ![CSS3](https://img.shields.io/badge/CSS3-111418?style=flat-square&logo=css3&logoColor=38A3D1) ![Kivy](https://img.shields.io/badge/Kivy%20%2F%20KivyMD-111418?style=flat-square&logo=kivy&logoColor=38A3D1) |
-| **Tools & Infra** | ![Docker](https://img.shields.io/badge/Docker-111418?style=flat-square&logo=docker&logoColor=9AA3AD) ![Git](https://img.shields.io/badge/Git-111418?style=flat-square&logo=git&logoColor=9AA3AD) ![GitHub](https://img.shields.io/badge/GitHub-111418?style=flat-square&logo=github&logoColor=9AA3AD) ![uv](https://img.shields.io/badge/uv-111418?style=flat-square&logo=astral&logoColor=9AA3AD) ![Ollama](https://img.shields.io/badge/Ollama-111418?style=flat-square&logo=ollama&logoColor=9AA3AD) |
+| **AI & Design** | ![Claude](https://img.shields.io/badge/Claude-111418?style=flat-square&logo=claude&logoColor=A78BFA) ![Gemini](https://img.shields.io/badge/Gemini-111418?style=flat-square&logo=googlegemini&logoColor=A78BFA) ![ChatGPT](https://img.shields.io/badge/ChatGPT-111418?style=flat-square&logo=openai&logoColor=A78BFA) ![Ollama](https://img.shields.io/badge/Ollama-111418?style=flat-square&logo=ollama&logoColor=A78BFA) ![Figma](https://img.shields.io/badge/Figma-111418?style=flat-square&logo=figma&logoColor=A78BFA) |
+| **Tools & Infra** | ![Docker](https://img.shields.io/badge/Docker-111418?style=flat-square&logo=docker&logoColor=9AA3AD) ![Git](https://img.shields.io/badge/Git-111418?style=flat-square&logo=git&logoColor=9AA3AD) ![GitHub](https://img.shields.io/badge/GitHub-111418?style=flat-square&logo=github&logoColor=9AA3AD) ![uv](https://img.shields.io/badge/uv-111418?style=flat-square&logo=astral&logoColor=9AA3AD) |
 
 ## ☾ Featured Projects
 
@@ -63,6 +64,18 @@ Local-first EPUB reader and PDF-to-EPUB converter, evolved from **Deva-PDF2EPUB*
 </td>
     <td width="50%" valign="top">
 
+### DEVA-PDF2EPUB
+The original PDF-to-EPUB converter and direct predecessor of Atanor, where the conversion pipeline was first built and validated.
+
+`Python` · `PDF` · `EPUB` · `Conversion`
+
+[Repository](https://github.com/jvitoraraujo/Deva-PDF2EPUB)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 ### ARCANUM VITAE
 Hybrid (physical-digital) board game combining the Major and Minor Arcana of the Tarot with the Kabbalistic Tree of Life. Ships with a mobile rules app and woodcut-style illustrations.
 
@@ -71,10 +84,23 @@ Hybrid (physical-digital) board game combining the Major and Minor Arcana of the
 [Repository](https://github.com/jvitoraraujo/arcanum-vitae)
 
 </td>
+    <td width="50%" valign="top">
+
+### MANUAL DE TAROT
+Structured Tarot manual covering the Major and Minor Arcana, their symbolism and their interpretation.
+
+`Markdown` · `Tarot` · `Symbolism`
+
+[Repository](https://github.com/jvitoraraujo/manual-de-tarot)
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
+</table>
+
+More projects and write-ups at the [portfolio](https://jvitoraraujo.github.io/chaosdeva/#/chaos/projetos).
 
 ## ✦ GitHub Stats
 
@@ -89,6 +115,7 @@ Hybrid (physical-digital) board game combining the Major and Minor Arcana of the
 
 Open to conversations about **Backend / Software Engineer (Junior)** roles, research collaborations and original projects.
 
+- Portfolio: [chaosdeva](https://jvitoraraujo.github.io/chaosdeva/#/chaos/projetos)
 - LinkedIn: [vitor-araújo](https://www.linkedin.com/in/vitor-ara%C3%BAjo-55a98942b)
 - Email: [vitoraraujo02@gmail.com](mailto:vitoraraujo02@gmail.com)
 
