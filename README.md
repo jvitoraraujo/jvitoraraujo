@@ -95,8 +95,6 @@ Structured Tarot manual covering the Major and Minor Arcana, their symbolism and
 
 </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
 
 </table>
 
